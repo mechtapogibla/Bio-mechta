@@ -256,7 +256,7 @@ h1::after {
 }
 
 .spotify-link::before {
-  content: "d";
+  content: "♫";
   margin-right: 8px;
   opacity: 0.5;
 }
